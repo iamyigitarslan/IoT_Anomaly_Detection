@@ -4,6 +4,8 @@ IoT Anomaly Detection uses the IoT-23 dataset[1]. The data set is downloaded and
 
 [1] https://www.stratosphereips.org/datasets-iot23 (The small one was used in the project.)
 
+Colab Notebook was used because the training of the model requires a lot of memory and takes a long time. (You need to edit the paths in each script for the project to work.)
+
 Accuracies are given below.
 
 ![resim](https://user-images.githubusercontent.com/67331300/213029893-1d7136f5-af91-4e06-b656-c0385bd8a0a2.png)
